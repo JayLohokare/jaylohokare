@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jay Lohokare, a ML Engineer and Product Manager working for McKinsey & Co as a Specialist Associate.<br>
+I'm Jay Lohokare, a Software/ML Engineer & Product Manager working with Amazon Web Services as a SDE2.<br>
 I love exploring new technology domains, building innovative products & applications. <br>
 
 Reach me at - jaylohokare@gmail.com<br>
