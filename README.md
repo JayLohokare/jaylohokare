@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jay Lohokare, a Software/ML Engineer & Product Manager working with Amazon Web Services as SDE2.<br>
+I'm Jay Lohokare, a Software/ML Engineer & Product Manager.<br>
 I love exploring new technology domains, building innovative products & applications. <br>
 
 Contact - jaylohokare@gmail.com<br>
